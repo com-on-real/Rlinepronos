@@ -1,0 +1,36 @@
+.info {
+    max-width: none;
+}
+
+.input-group-text{
+    font-size: 5px;
+}
+
+.section-image .description, .section-image .info .icon:not(.icon-circle) {
+    color: none !important;
+}
+
+
+.card-important{
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 5px solid #FDC056;
+    border-width: 60px 5px 5px 5px;
+    /* position: relative;
+    bottom: 0px; */
+    height: 400px;
+    position: relative;
+    top: -60px;
+    margin: 40px;
+    
+}
+
+.offres{
+    
+    position: absolute;
+    top: -85px;
+    color : black;
+    text-align: center;
+}
+.navbar-collapse:before {
+background: linear-gradient(#2CA8FF 0%, #000 80%);
+}
